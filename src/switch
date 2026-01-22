@@ -1,0 +1,16 @@
+public class farketmez{
+public static void main(String[] args) {
+    int gün=2;
+    switch(gün) {
+        case 0:System.out.println('pazartesi');
+            break;
+        case 1:System.out.println('salı');
+            break;
+        case 2:System.out.println('wednesday');
+    }
+
+
+}
+
+
+}
